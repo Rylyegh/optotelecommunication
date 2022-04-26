@@ -7,7 +7,6 @@ Bit_rate = 2488.32
 #values in dBm
 min_Ptx_value = -10
 max_Ptx_value = 0
-
 min_sens_Prx = -34
 
 path_penalty = 1
